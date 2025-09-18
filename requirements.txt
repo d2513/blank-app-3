@@ -1,3 +1,7 @@
 streamlit
 folium
 streamlit-folium
+geopandas
+pydeck 
+shapely 
+altair
